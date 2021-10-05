@@ -1,3 +1,2 @@
 # html-training
 # normal
-# word
